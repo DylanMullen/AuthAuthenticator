@@ -1,0 +1,13 @@
+# This is the IP to the dedicated machine for Lobbies
+bukkit-ip: 127.0.0.1
+
+# List all Bukkit plugin ports here. 
+bukkit-ports:
+- "1400"
+
+#MySQL
+host: 127.0.0.1
+sql-port: 3306
+database: Yeot
+username: root
+password: 

@@ -1,0 +1,7 @@
+# BungeeCord machine IP
+bungeecord-ip: 127.0.0.1
+
+# Socket Port
+port: 1400
+# Password to set autoregister players
+password: "Yeotimus123"

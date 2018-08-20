@@ -1,0 +1,3 @@
+name: BlockDrop
+main: me.dylanmullen.blockdrop.core.Main
+version: 1

@@ -1,0 +1,8 @@
+#
+# This is the messages configuration for the plugin
+# you are setting up. This will usually be used for
+# text or disconnection messages.
+#
+
+logo: "&7[&bBlock&aDrop&7]"
+wrong-password: "&cThis is the wrong password for the account you are trying to use!"
